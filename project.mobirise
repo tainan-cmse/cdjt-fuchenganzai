@@ -42,7 +42,7 @@
     ],
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/noun-award-7840693.svg",
-    "mbrsiteDomain": "aiiissxw0z",
+    "mbrsiteDomain": "xldh0pgkeb",
     "imageResize": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -54,7 +54,8 @@
     "gdpr": false,
     "pwa-switcher": false,
     "uniqCompNum": 16,
-    "versionPublish": "5.5.2"
+    "versionPublish": "5.5.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -618,21 +619,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Custom HTML Block</h1>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#777\" width=\"200\" height=\"200\"><path d=\"M6.1 8.7L2.8 12l3.3 3.3-1.4 1.4L0 12l4.7-4.7 1.4 1.4zm13.2-1.4l-1.4 1.4 3.3 3.3-3.3 3.3 1.4 1.4L24 12l-4.7-4.7zM8.1 18.6l1.8.8 6-14-1.8-.8-6 14z\"></path></svg>\n    <p class=\"display-3\">Click to Open Code Editor</p>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "custom-html-f",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     }
