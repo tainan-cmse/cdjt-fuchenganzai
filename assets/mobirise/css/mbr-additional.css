@@ -1087,3 +1087,15 @@ a {
 .cid-uVkDW9sQY7 .mbr-section-title {
   color: #232323;
 }
+#custom-html-f {
+  /* Type valid CSS here */
+}
+#custom-html-f div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-f p {
+  font-size: 60px;
+  color: #777;
+}
