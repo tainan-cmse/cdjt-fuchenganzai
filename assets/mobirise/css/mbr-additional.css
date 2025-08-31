@@ -2202,6 +2202,102 @@ a {
 .cid-uVllKuWtlt img {
   width: 100%;
 }
+.cid-uVsF49eQfe {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uVsF49eQfe .timeline-element {
+  position: relative;
+}
+.cid-uVsF49eQfe .timelines-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+}
+.cid-uVsF49eQfe .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-uVsF49eQfe .mbr-section-title,
+.cid-uVsF49eQfe .mbr-section-subtitle,
+.cid-uVsF49eQfe .timeline-date {
+  text-align: center;
+}
+.cid-uVsF49eQfe .iconBackground {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #6592e6;
+  margin-left: -9px;
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .cid-uVsF49eQfe .iconBackground {
+    left: 15px;
+    top: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uVsF49eQfe .iconBackground {
+    top: 70px;
+    left: 50%;
+  }
+}
+.cid-uVsF49eQfe .row:after {
+  content: "";
+  position: absolute;
+  background-color: #6592e6;
+  width: 2px;
+}
+@media (max-width: 767px) {
+  .cid-uVsF49eQfe .row:after {
+    height: calc(100% + 30px);
+    top: 50px;
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uVsF49eQfe .row:after {
+    height: calc(100% + 28px);
+    top: 90px;
+    left: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uVsF49eQfe .timeline-date-wrapper,
+  .cid-uVsF49eQfe .timeline-text-wrapper,
+  .cid-uVsF49eQfe .image-wrapper {
+    padding: 0rem;
+    padding-left: 2rem;
+  }
+  .cid-uVsF49eQfe .mbr-timeline-date {
+    text-align: left !important;
+  }
+  .cid-uVsF49eQfe .mbr-timeline-title {
+    text-align: left;
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-uVsF49eQfe .timeline-date-wrapper,
+  .cid-uVsF49eQfe .timeline-text-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uVsF49eQfe .timeline-date-wrapper,
+  .cid-uVsF49eQfe .timeline-text-wrapper,
+  .cid-uVsF49eQfe .image-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uVsF6wKPPO {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
 .cid-uVllXRYQKF {
   padding-top: 5rem;
   padding-bottom: 5rem;
