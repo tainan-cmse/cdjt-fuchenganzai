@@ -2260,7 +2260,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-uVsF49eQfe .row:after {
-    height: calc(100% + 28px);
+    height: calc(100% - 20px);
     top: 90px;
     left: 50%;
   }
