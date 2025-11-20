@@ -3810,6 +3810,41 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
+.cid-v37y6GMfkH {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-v37y6GMfkH .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-v37y6GMfkH .row {
+  flex-direction: row-reverse;
+}
+.cid-v37y6GMfkH img {
+  width: 100%;
+}
+.cid-v37xXWCJgI {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-v37xXWCJgI .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-v37xXWCJgI .row {
+  flex-direction: row-reverse;
+}
+.cid-v37xXWCJgI img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-v37xXWCJgI .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-uVlg2sDnrU {
   padding-top: 15px;
   padding-bottom: 90px;
